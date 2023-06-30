@@ -10,4 +10,4 @@ Users have the ability to add the name, ingredients, and cooking time to each re
 ## Technology
 
 ### Built with:
-* JavaScript ES6, HTML5
+* JavaScript ES6, React, HTML5
