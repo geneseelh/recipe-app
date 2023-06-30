@@ -1,6 +1,6 @@
 # recipe-app
 
-Recipe app an application that allows users to create new recipes. 
+Recipe app is an application that allows users to create new food recipes. 
 Users have the ability to add the name, ingredients, and cooking time to each recipe. Users can instantly add new recipes and delete ones.
 
 ## Future Updates
