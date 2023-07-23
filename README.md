@@ -1,7 +1,8 @@
-# recipe-app
+# Delicious Food Recipes
 
-Recipe app is an application that allows users to create new food recipes. 
-Users have the ability to add the name, ingredients, and cooking time to each recipe. Users can instantly add new recipes and delete ones.
+Delicious Food Recipes is an application that allows users to create, read, update, and delete recipes.
+
+Users have the ability to add the name, ingredients, and cooking time to each recipe. Users can instantly add new recipes and delete old ones.
 
 ## Future Updates
 * NOTE: CSS Styling and further interactive functionality will be added soon.
@@ -10,4 +11,4 @@ Users have the ability to add the name, ingredients, and cooking time to each re
 ## Technology
 
 ### Built with:
-* JavaScript ES6, React, HTML5
+* React, JavaScript ES6, CSS, HTML5
